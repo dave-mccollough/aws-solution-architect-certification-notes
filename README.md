@@ -20,3 +20,9 @@ Study notes for the AWS Solution Architect Associate exam
 - [IAM Best Practices](01-IAM/10-iam-best-practices.md)
 - [Summary](01-IAM/11-summary.md)
 
+### EC2
+- [EC2 Basics](02-EC2/01-ec2-basics.md)
+- [EC2 Instance Types](02-EC2/02-ec2-instance-types.md)
+- [Security Groups](02-EC2/03-security-groups.md)
+
+
