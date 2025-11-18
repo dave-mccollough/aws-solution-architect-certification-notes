@@ -18,5 +18,5 @@ Study notes for the AWS Solution Architect Associate exam
 - [IAM Roles](01-IAM/07-iam-roles.md)
 - [IAM Security Tools](01-IAM/08-iam-security-tools.md)
 - [IAM Best Practices](01-IAM/10-iam-best-practices.md)
-- [Summary](01-IAM/11- summary.md)
+- [Summary](01-IAM/11-summary.md)
 
