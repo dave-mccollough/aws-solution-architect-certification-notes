@@ -1,0 +1,21 @@
+# IAM Summary
+
+- Users
+  - Mapped to a physical user
+  - Has password for AWS console
+- Groups
+  - Contains users
+- Policies
+  - JSON document that outlines permissions for users and groupd
+- Roles
+  - Used for AWS services
+- Security
+  - MFA and Password Policy
+- AWS CLI
+  - Manage AWS services using comnmand line
+- AWS SDK
+  - Manage AWS services via API
+- Access Keys
+  - Used for access AWS services via CLI or SDK
+- Audit
+  - Credential Reports and IAM Access Advisor
