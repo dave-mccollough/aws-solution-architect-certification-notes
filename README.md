@@ -8,7 +8,7 @@ Study notes for the AWS Solution Architect Associate exam
 
 ## Details
 
-## IAM
+### IAM
 - [AWS Cloud Overview](01-IAM/01-AWS-Cloud-Overview.md)
 - [Introduction to Users, Groups, and Policies](01-IAM/02-intro-users-groups-policies.md)
 - [Multi-session Support](01-IAM/03-multi-session-support.md)
