@@ -1,6 +1,6 @@
 # AWS Solution Architect Associate Exam Notes
 
-My study notes for the AWS Solution Architect Associate exam
+Study notes for the AWS Solution Architect Associate exam
 
 ## Resources
 
@@ -9,3 +9,7 @@ My study notes for the AWS Solution Architect Associate exam
 ## Details
 
 - [AWS Cloud Overview](01-AWS-Cloud-Overview.md)
+- [Introduction to Users, Groups, and Policies](02-intro-users-groups-policies.md)
+- [Multi-session Support](03-multi-session-support.md)
+- [IAM Policies](04-iam-policies.md)
+- [IAM MFA](05-iam-mfa.md)
