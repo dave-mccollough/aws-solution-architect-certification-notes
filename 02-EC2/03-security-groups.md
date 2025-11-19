@@ -14,7 +14,7 @@
 - Locked down to a region/VPC combination
 - 'Lives' outside of EC2
   - If traffic is blocked, EC2 won't see it
-- If application times out or is not accessible, security group issues
+- If you see a timeout when trying to access your EC2 instance check security groups
 - If application gives a connection refused error, application error
 - All inbound traffic is blocked by default
 - All outbound traffic is allowed by default

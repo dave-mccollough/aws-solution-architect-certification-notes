@@ -24,5 +24,12 @@ Study notes for the AWS Solution Architect Associate exam
 - [EC2 Basics](02-EC2/01-ec2-basics.md)
 - [EC2 Instance Types](02-EC2/02-ec2-instance-types.md)
 - [Security Groups](02-EC2/03-security-groups.md)
-
-
+- [SSH](02-EC2/04-ssh.md)
+- [EC2 Instance Control](02-EC2/05-ec2-instance-control.md)
+- [EC2 Roles](02-EC2/06-ec2-roles.md)
+- [EC2 Purchasing Options](02-EC2/07-purchasing-options.md)
+- [EC2 Spot Instances](02-EC2/08-spot-instances.md)
+- [Private vs Public IPs](02-EC2/09-private-vs-public-ip.md)
+- [EC2 Placement Groups](02-EC2/10-ec2-placement-groups.md)
+- [Elastic Network Interface](02-EC2/11-eni.md)
+- [EC2 Hibernate](02-EC2/12-hibernate.md)
