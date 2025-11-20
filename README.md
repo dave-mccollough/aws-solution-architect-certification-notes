@@ -33,3 +33,13 @@ Study notes for the AWS Solution Architect Associate exam
 - [EC2 Placement Groups](02-EC2/10-ec2-placement-groups.md)
 - [Elastic Network Interface](02-EC2/11-eni.md)
 - [EC2 Hibernate](02-EC2/12-hibernate.md)
+
+### EBS
+- [EBS Overview](03-EBS/01-ebs-overview.md)
+- [EBS Snapshots](03-EBS/02-ebs-snapshots.md)
+- [AMI Overview](03-EBS/03-ami-overivew.md)
+- [EC2 Instance Store](03-EBS/04-ec2-instance-store.md)
+- [EBS Volume Types](03-EBS/05-ebs-volume-types.md)
+- [EBS Multi-attach](03-EBS/06-ebs-multi-attach.md)
+- [EBS Encryption](03-EBS/07-ebs-encryption.md)
+- [Amazon EFS](03-EBS/08-amazon-efs.md)

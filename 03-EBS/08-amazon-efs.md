@@ -1,0 +1,49 @@
+# Amazon EFS
+
+- Elastic File System
+- Used for
+  - Content management
+  - Web server
+  - Data sharing
+  - Wordpress
+- Uses NFSv4.1 protocol
+- Uses security group to access EFS
+- Compatible with Linux based AMI (not Windows)
+- Encryption at rest using KMS (Key Management System)
+
+- POSIX file sytem (Linux)
+- Standard file API
+- File system scales automatically - pay per use
+- 1,000s of NFS clients 
+- Grow to petabyte scale network file system
+- Performamce mode - set at creation time
+  - General Purpose (Default)
+    - Latency sensitive use cases - web servers, CMS
+  - Max I/O
+    - Higher latency throughput
+    - Highly parallel - big data, media processing
+- Throughput mode
+  - Bursting
+    - 1TB = 50mb + burst up to 100mbs
+  - Provisioned
+    - Set throughput regardless of storage size
+  - Elastic
+    - Scales throughput up or down based on workloads
+- Storage tiers
+  - Standard
+    - Frequently accessed files
+  - Infrequent access (EFS-IA)
+    - Cost to retrieve files
+    - Lower cost to store
+  - Archive
+    - Rarely accessed data
+    - 50% data
+  - Implement lifecycle policies to move files between storage tiers
+
+- Availability and Durability
+  - Standard
+    - Multi-az
+    - Use for prod
+  - One Zone
+    - One AZ
+    - Dev/Test environments
