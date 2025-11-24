@@ -43,3 +43,7 @@ Study notes for the AWS Solution Architect Associate exam
 - [EBS Multi-attach](03-EBS/06-ebs-multi-attach.md)
 - [EBS Encryption](03-EBS/07-ebs-encryption.md)
 - [Amazon EFS](03-EBS/08-amazon-efs.md)
+
+### High Availability
+- [High Availability and Scalability](04-High-Availability/01-high-availability-scalability.md)
+- [Elastic Load Balancer](04-High-Availability/02-elb.md)
